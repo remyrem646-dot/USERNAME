@@ -2,7 +2,7 @@
 I'm currently learning to code, exploring different technologies, and building projects to improve my skills. I'm still growing as a developer, and I'm excited to learn something new with every project. </br>
 
 💻 BSIT Student at NTC (National Teacher's College)</br>
-🌱 Aspiring Full Developer</br>
+🌱 Aspiring Developer</br>
 🛠️ Learning through projects and practice</br>
 
 
